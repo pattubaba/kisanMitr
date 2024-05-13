@@ -1,6 +1,6 @@
 import streamlit as st
 # from streamlit_extras.add_vertical_space import add_vertical_space
-from streamlit_option_menu import option_menu
+# from streamlit_option_menu import option_menu
 from PIL import Image
 from bot_utils.csv_agent import dashboard
 import MySQLdb
