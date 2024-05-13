@@ -26,7 +26,7 @@ load_dotenv()
 os.environ["OPENAI_API_TYPE"] = "azure"
 os.environ["OPENAI_API_VERSION"] = "2023-12-01-preview"
 os.environ["OPENAI_API_BASE"] = "https://ey-sandbox.openai.azure.com/"
-os.environ["OPENAI_API_KEY"] = "4b81012d55fb416c9e398f6149c3071e"
+os.environ["OPENAI_API_KEY"] = ""
 
 # os.environ["OPENAI_API_TYPE"] = os.getenv("OPENAI_API_TYPE")
 # os.environ["OPENAI_API_VERSION"] = os.getenv("OPENAI_API_VERSION")
